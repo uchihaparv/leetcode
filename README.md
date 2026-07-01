@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/uchihaparv/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/uchihaparv/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/uchihaparv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/uchihaparv/leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uchihaparv/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/uchihaparv/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/uchihaparv/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/uchihaparv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/uchihaparv/leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uchihaparv/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/uchihaparv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/uchihaparv/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/uchihaparv/leetcode/tree/master/0643-maximum-average-subarray-i) |
