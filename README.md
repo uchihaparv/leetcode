@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/uchihaparv/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/uchihaparv/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1920-build-array-from-permutation](https://github.com/uchihaparv/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/uchihaparv/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
