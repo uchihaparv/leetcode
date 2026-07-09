@@ -4,17 +4,15 @@ class Solution {
             ans.add(new ArrayList<>(ds));
             return;
         }
-        int idx = i+1;
-        while(idx<n && nums[idx] == nums[idx-1])idx++;
-        printS(ans,ds,nums,n,idx);
+
         ds.add(nums[i]);
         printS(ans,ds,nums,n,i+1);
         ds.remove(ds.size()-1);
 
-        
+        int idx = i+1;
 
-        
-        
+        while(idx<n && nums[idx] == nums[idx-1])idx++;
+        printS(ans,ds,nums,n,idx);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
