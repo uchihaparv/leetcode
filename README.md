@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/uchihaparv/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/uchihaparv/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/uchihaparv/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uchihaparv/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/uchihaparv/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uchihaparv/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/uchihaparv/leetcode/tree/master/1920-build-array-from-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
