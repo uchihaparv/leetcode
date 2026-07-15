@@ -1,39 +1,25 @@
 class Solution {
-
-    String[] str = {
-        "", "",
-        "abc",
-        "def",
-        "ghi",
-        "jkl",
-        "mno",
-        "pqrs",
-        "tuv",
-        "wxyz"
-    };
-
+    String[] str = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
 
-        // Base case
-        if (digits.length() == 0) {
-            ArrayList<String> base = new ArrayList<>();
-            base.add("");
-            return base;
+        if(digits.length() == 0){
+            List<String> res = new ArrayList<>();
+            res.add("");
+            return res;
         }
-
+        
         char c = digits.charAt(0);
         String ros = digits.substring(1);
-
         List<String> rres = letterCombinations(ros);
         List<String> mres = new ArrayList<>();
 
-        String dig = str[c - '0'];
+        String ele = str[c-'0'];
 
-        for (int i = 0; i < dig.length(); i++) {
-            char curr = dig.charAt(i);
+        for(int i = 0; i<ele.length(); i++){
+            char cur = ele.charAt(i);
 
-            for (String ele : rres) {
-                mres.add(curr + ele);
+            for(String s : rres){
+                mres.add(cur+s);
             }
         }
 
