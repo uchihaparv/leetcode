@@ -1,46 +1,43 @@
 class Solution {
-    boolean isSafeBoard(char[][] board, int row, int col, char val){
-        for(int i = 0; i<board[0].length; i++){
-            if(board[row][i] == val)return false;
+    boolean safe(char[][] board, char val, int row, int col){
+        for(int i = 0; i<board.length; i++){
             if(board[i][col] == val)return false;
+            if(board[row][i] == val)return false;
         }
 
-        int startRow = (row / 3) * 3;
-        int startCol = (col / 3) * 3;
+        int strow = (row/3)*3;
+        int stcol = (col/3)*3;
 
-        for (int i = startRow; i < startRow + 3; i++) {
-            for (int j = startCol; j < startCol + 3; j++) {
-                if (board[i][j] == val) {
-                    return false;
-                }
+        for(int i = strow; i<strow+3; i++){
+            for(int j = stcol; j<stcol+3; j++){
+                if(board[i][j] == val)return false;
             }
         }
 
         return true;
-
     }
-    public boolean Solve(char[][] board){
+    public boolean solve(char[][] board){
+
         int n = board[0].length;
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<n; j++){
 
-        for(int row = 0; row<n; row++){
-            for(int col = 0; col<n; col++){
 
+                if(board[i][j]=='.'){
 
-                if(board[row][col] == '.'){
-                    for(char i = '1'; i<='9'; i++){
+                    for(char k = '1'; k<='9'; k++){
 
-                        
-                        if(isSafeBoard(board,row,col,i)){
+                        if(safe(board, k, i,j)){
 
-                            board[row][col] = i;
+                            board[i][j] = k;
 
-                            if(Solve(board))return true;
+                            if(solve(board))return true;
 
-                            board[row][col] = '.';
+                            board[i][j] = '.';
 
                         }
-                     
                     }
+
                     return false;
                 }
             }
@@ -49,6 +46,6 @@ class Solution {
         return true;
     }
     public void solveSudoku(char[][] board) {
-        Solve(board);
+        solve(board);
     }
 }
