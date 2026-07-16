@@ -1,13 +1,12 @@
 class Solution {
     String[] str = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
-
         if(digits.length() == 0){
-            List<String> res = new ArrayList<>();
-            res.add("");
-            return res;
+            List<String> ls = new ArrayList<>();
+            ls.add("");
+            return ls;
         }
-        
+
         char c = digits.charAt(0);
         String ros = digits.substring(1);
         List<String> rres = letterCombinations(ros);
@@ -16,10 +15,10 @@ class Solution {
         String ele = str[c-'0'];
 
         for(int i = 0; i<ele.length(); i++){
-            char cur = ele.charAt(i);
+            char curr = ele.charAt(i);
 
             for(String s : rres){
-                mres.add(cur+s);
+                mres.add(curr+s);
             }
         }
 
