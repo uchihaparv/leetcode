@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/uchihaparv/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/uchihaparv/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/uchihaparv/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/uchihaparv/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/uchihaparv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/uchihaparv/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/uchihaparv/leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -212,18 +214,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/uchihaparv/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uchihaparv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/uchihaparv/leetcode/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/uchihaparv/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uchihaparv/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uchihaparv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/uchihaparv/leetcode/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/uchihaparv/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uchihaparv/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/uchihaparv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/uchihaparv/leetcode/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/uchihaparv/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
