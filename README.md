@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/uchihaparv/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/uchihaparv/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/uchihaparv/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uchihaparv/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/uchihaparv/leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/uchihaparv/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Backtracking
 |  |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/uchihaparv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/uchihaparv/leetcode/tree/master/0101-symmetric-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/uchihaparv/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
