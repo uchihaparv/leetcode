@@ -2,20 +2,20 @@ class Solution {
     public String smallestPalindrome(String s) {
         int[] cnt = new int[26];
 
-        for (char c : s.toCharArray()) {
-            cnt[c - 'a']++;
+        for(char c : s.toCharArray()){
+            cnt[c-'a']++;
         }
 
         StringBuilder left = new StringBuilder();
-        char middle = 0;
-
-        for (int i = 0; i < 26; i++) {
-            for (int j = 0; j < cnt[i] / 2; j++) {
-                left.append((char) ('a' + i));
+        char mid = 0;
+        
+        for(int i = 0 ; i<26; i++){
+            for(int j = 0; j<cnt[i]/2; j++){
+                left.append((char)('a' + i));
             }
 
-            if ((cnt[i] & 1) == 1) {
-                middle = (char) ('a' + i);
+            if((cnt[i] & 1) == 1){
+                mid = (char) ('a' + i);
             }
         }
 
@@ -23,12 +23,13 @@ class Solution {
 
         ans.append(left);
 
-        if (middle != 0) {
-            ans.append(middle);
+        if(mid != 0){
+            ans.append(mid);
         }
 
         ans.append(new StringBuilder(left).reverse());
 
         return ans.toString();
+
     }
 }
