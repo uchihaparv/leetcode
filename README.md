@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/uchihaparv/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/uchihaparv/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/uchihaparv/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/uchihaparv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/uchihaparv/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uchihaparv/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/uchihaparv/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/uchihaparv/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/uchihaparv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/uchihaparv/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uchihaparv/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/uchihaparv/leetcode/tree/master/0189-rotate-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uchihaparv/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/uchihaparv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/uchihaparv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uchihaparv/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/uchihaparv/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/uchihaparv/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
