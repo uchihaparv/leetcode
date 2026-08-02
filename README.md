@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/uchihaparv/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/uchihaparv/leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/uchihaparv/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uchihaparv/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/uchihaparv/leetcode/tree/master/0189-rotate-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uchihaparv/leetcode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
