@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/uchihaparv/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/uchihaparv/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/uchihaparv/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/uchihaparv/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/uchihaparv/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/uchihaparv/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/uchihaparv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/uchihaparv/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
