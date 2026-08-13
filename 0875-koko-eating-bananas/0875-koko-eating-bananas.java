@@ -2,10 +2,7 @@ class Solution {
     public boolean isPossible(int val, int h, int[] piles){
         int hour = 0;
         for(int i : piles){
-            int curr = i;
-
            hour += Math.ceil((double)i / val);
-            
         }
 
         return hour<=h;
