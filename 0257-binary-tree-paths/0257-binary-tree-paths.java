@@ -25,8 +25,8 @@ class Solution {
     private void backtrack(TreeNode root, List<String> ans, String path){
         if(root == null)return;
 
-        if(path.isEmpty()){
-            path = String.valueOf(root.val);
+        if(path==""){
+            path +=root.val;
         }
         else {
             path+="->"+root.val;
