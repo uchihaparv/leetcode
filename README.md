@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/uchihaparv/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/uchihaparv/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/uchihaparv/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uchihaparv/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/uchihaparv/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/uchihaparv/leetcode/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/uchihaparv/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/uchihaparv/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/uchihaparv/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uchihaparv/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uchihaparv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/uchihaparv/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/uchihaparv/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/uchihaparv/leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/uchihaparv/leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/uchihaparv/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/uchihaparv/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/uchihaparv/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/uchihaparv/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uchihaparv/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/uchihaparv/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/uchihaparv/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uchihaparv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/uchihaparv/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uchihaparv/leetcode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/uchihaparv/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/uchihaparv/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/uchihaparv/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uchihaparv/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
