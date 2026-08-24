@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/uchihaparv/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/uchihaparv/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/uchihaparv/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uchihaparv/leetcode/tree/master/0202-happy-number) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/uchihaparv/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/uchihaparv/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/uchihaparv/leetcode/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/uchihaparv/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
