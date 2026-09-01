@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/uchihaparv/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/uchihaparv/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/uchihaparv/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/uchihaparv/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/uchihaparv/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/uchihaparv/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/uchihaparv/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/uchihaparv/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/uchihaparv/leetcode/tree/master/0242-valid-anagram) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/uchihaparv/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/uchihaparv/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/uchihaparv/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/uchihaparv/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/uchihaparv/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/uchihaparv/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/uchihaparv/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/uchihaparv/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/uchihaparv/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/uchihaparv/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/uchihaparv/leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/uchihaparv/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/uchihaparv/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uchihaparv/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/uchihaparv/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/uchihaparv/leetcode/tree/master/0100-same-tree) |
