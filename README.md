@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/uchihaparv/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/uchihaparv/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/uchihaparv/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/uchihaparv/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/uchihaparv/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/uchihaparv/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/uchihaparv/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/uchihaparv/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/uchihaparv/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uchihaparv/leetcode/tree/master/0002-add-two-numbers) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
