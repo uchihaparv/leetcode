@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/uchihaparv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uchihaparv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/uchihaparv/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uchihaparv/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/uchihaparv/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/uchihaparv/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/uchihaparv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uchihaparv/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uchihaparv/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uchihaparv/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/uchihaparv/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
