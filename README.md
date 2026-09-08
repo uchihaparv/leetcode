@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/uchihaparv/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/uchihaparv/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/uchihaparv/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/uchihaparv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uchihaparv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Number Theory
 |  |
