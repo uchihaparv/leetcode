@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/uchihaparv/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/uchihaparv/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uchihaparv/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/uchihaparv/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uchihaparv/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/uchihaparv/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Number Theory
 |  |
