@@ -22,7 +22,7 @@ class Solution {
 
         visited[node] = true;
 
-        for (int i = 0; i < graph.length; i++) {
+        for (int i = 0; i < graph[node].length; i++) {
 
             if (graph[node][i] == 1 && !visited[i]) {
                 dfs(graph, visited, i);
