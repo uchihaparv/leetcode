@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/uchihaparv/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0419-battleships-in-a-board](https://github.com/uchihaparv/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/uchihaparv/leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/uchihaparv/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/uchihaparv/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/uchihaparv/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uchihaparv/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/uchihaparv/leetcode/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/uchihaparv/leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/uchihaparv/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/uchihaparv/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/uchihaparv/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/uchihaparv/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/uchihaparv/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/uchihaparv/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
