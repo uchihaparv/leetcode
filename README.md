@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/uchihaparv/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/uchihaparv/leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uchihaparv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/uchihaparv/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/uchihaparv/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/uchihaparv/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/uchihaparv/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/uchihaparv/leetcode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/uchihaparv/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uchihaparv/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/uchihaparv/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/uchihaparv/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/uchihaparv/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/uchihaparv/leetcode/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/uchihaparv/leetcode/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/uchihaparv/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
