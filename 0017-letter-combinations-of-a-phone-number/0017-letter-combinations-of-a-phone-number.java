@@ -1,5 +1,5 @@
 class Solution {
-    String[] str = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+    String[] dig = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
         if(digits.length() == 0){
             List<String> ls = new ArrayList<>();
@@ -10,18 +10,18 @@ class Solution {
         char c = digits.charAt(0);
         String ros = digits.substring(1);
         List<String> rres = letterCombinations(ros);
-        List<String> mres = new ArrayList<>();
+        List<String> ans = new ArrayList<>();
+        String ele = dig[c-'0'];
 
-        String ele = str[c-'0'];
-
-        for(int i = 0; i<ele.length(); i++){
-            char curr = ele.charAt(i);
-
+        for(char ch : ele.toCharArray()){
             for(String s : rres){
-                mres.add(curr+s);
+                String curr = ch+s;
+                ans.add(curr);
             }
         }
 
-        return mres;
+ 
+
+        return ans;
     }
 }
