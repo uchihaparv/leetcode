@@ -473,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/uchihaparv/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
