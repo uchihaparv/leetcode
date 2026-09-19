@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/uchihaparv/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/uchihaparv/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/uchihaparv/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/uchihaparv/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/uchihaparv/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/uchihaparv/leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/uchihaparv/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/uchihaparv/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/uchihaparv/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/uchihaparv/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Bracket Sequences
 |  |
 | ------- |
