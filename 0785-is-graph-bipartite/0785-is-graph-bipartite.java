@@ -7,7 +7,7 @@ class Solution {
 
         for (int i = 0; i < v.length; i++) {
             if (v[i] == -1) {
-                if (!bfs(graph, v, i)) {
+                if (bfs(graph, v, i)) {
                     return false;
                 }
             }
@@ -37,11 +37,11 @@ class Solution {
                 }
 
                 else if (v[ne] == c) {
-                    return false;
+                    return true;
                 }
             }
         }
 
-        return true;
+        return false;
     }
 }
