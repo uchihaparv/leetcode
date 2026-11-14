@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/uchihaparv/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uchihaparv/leetcode/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/uchihaparv/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/uchihaparv/leetcode/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/uchihaparv/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/uchihaparv/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/uchihaparv/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/uchihaparv/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uchihaparv/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/uchihaparv/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/uchihaparv/leetcode/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/uchihaparv/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/uchihaparv/leetcode/tree/master/0463-island-perimeter) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/uchihaparv/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uchihaparv/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/uchihaparv/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/uchihaparv/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/uchihaparv/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/uchihaparv/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/uchihaparv/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/uchihaparv/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/uchihaparv/leetcode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/uchihaparv/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
