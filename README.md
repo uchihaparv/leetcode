@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/uchihaparv/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/uchihaparv/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uchihaparv/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/uchihaparv/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/uchihaparv/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/uchihaparv/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/uchihaparv/leetcode/tree/master/0200-number-of-islands) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/uchihaparv/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/uchihaparv/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/uchihaparv/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uchihaparv/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/uchihaparv/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uchihaparv/leetcode/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/uchihaparv/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/uchihaparv/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/uchihaparv/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/uchihaparv/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uchihaparv/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uchihaparv/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uchihaparv/leetcode/tree/master/0268-missing-number) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/uchihaparv/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/uchihaparv/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/uchihaparv/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/uchihaparv/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/uchihaparv/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uchihaparv/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -561,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/uchihaparv/leetcode/tree/master/0743-network-delay-time) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uchihaparv/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
